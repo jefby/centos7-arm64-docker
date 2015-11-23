@@ -1,0 +1,3 @@
+[submodule "ks-repo"]
+	path = ks-repo
+	url = https://github.com/CentOS/sig-cloud-instance-build
