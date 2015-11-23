@@ -1,6 +1,6 @@
-[submodule "ks-repo"]
-	path = ks-repo
-	url = https://github.com/CentOS/sig-cloud-instance-build
 [submodule "ami-creator"]
 	path = ami-creator
 	url = https://github.com/katzj/ami-creator
+[submodule "sig-cloud-instance-build"]
+	path = sig-cloud-instance-build
+	url = https://github.com/jefby/sig-cloud-instance-build
